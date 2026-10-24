@@ -13,6 +13,7 @@ mobile
 mobile/android/
 mobile/ios/
 backend/ocr-runtime/models/
+README_Development.md
 
 # Local configuration, generated transfer archives and machine-specific files
 .env.*
