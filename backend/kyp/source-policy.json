@@ -1,0 +1,57 @@
+{
+  "version": "descriptions-v1",
+  "reviewed_on": "2026-10-23",
+  "sources": {
+    "chebi": {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "terms_url": "https://www.ebi.ac.uk/about/terms-of-use/",
+      "policy_url": "https://www.ebi.ac.uk/chebi/about",
+      "attribution": "ChEBI, EMBL-EBI. Ingredient descriptions are adapted from ChEBI definitions under CC BY 4.0; no endorsement implied."
+    },
+    "wikidata": {
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "terms_url": "https://www.wikidata.org/wiki/Wikidata:Copyright",
+      "policy_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+      "attribution": "Wikidata contributors. Structured identity data, CC0 1.0. Used only for identity cross-checking."
+    }
+  },
+  "seeds": [
+    {
+      "chebi": 15377,
+      "wikidata": "Q283",
+      "name": "water",
+      "aliases": [
+        "aqua",
+        "eau"
+      ],
+      "description": "Water is a compound containing one oxygen atom bonded to two hydrogen atoms."
+    },
+    {
+      "chebi": 17754,
+      "wikidata": "Q132501",
+      "name": "glycerol",
+      "aliases": [
+        "glycerin"
+      ],
+      "description": "Glycerol is a three-carbon alcohol with three hydroxyl groups."
+    },
+    {
+      "chebi": 30769,
+      "wikidata": "Q159683",
+      "name": "citric acid",
+      "aliases": [],
+      "description": "Citric acid is an organic acid with three carboxylic acid groups."
+    },
+    {
+      "chebi": 16236,
+      "wikidata": "Q153",
+      "name": "ethanol",
+      "aliases": [
+        "ethyl alcohol"
+      ],
+      "description": "Ethanol is a primary alcohol built from a two-carbon chain with a hydroxyl group."
+    }
+  ]
+}

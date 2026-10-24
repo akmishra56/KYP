@@ -1,0 +1,695 @@
+{
+  "version": "food-fda-v2",
+  "reviewed_on": "2026-10-23",
+  "url": "https://www.hfpappexternal.fda.gov/scripts/fdcc/cfc/XMLService.cfm?method=downloadxls&set=FoodSubstances",
+  "licence": "FDA website public-domain content unless otherwise noted",
+  "terms_url": "https://www.fda.gov/about-fda/about-website/website-policies",
+  "attribution": "U.S. Food and Drug Administration, Substances Added to Food inventory. Adapted technical-effect summaries; no endorsement or safety/approval finding implied.",
+  "max_bytes": 16000000,
+  "candidates": [
+    {
+      "source_name": "SODIUM CHLORIDE",
+      "crosswalk": {
+        "id": "cosing-37813",
+        "name": "SODIUM CHLORIDE",
+        "cas": "7647-14-5"
+      },
+      "curated_aliases": {
+        "salt": "SALT (INGREDIENT)"
+      }
+    },
+    {
+      "source_name": "SUCROSE",
+      "crosswalk": {
+        "id": "cosing-38376",
+        "name": "SUCROSE",
+        "cas": "57-50-1"
+      },
+      "curated_aliases": {
+        "sugar": "TABLE SUGAR"
+      }
+    },
+    {
+      "source_name": "GLUCOSE"
+    },
+    {
+      "source_name": "FRUCTOSE"
+    },
+    {
+      "source_name": "DEXTROSE"
+    },
+    {
+      "source_name": "LACTOSE",
+      "crosswalk": {
+        "id": "cosing-34832",
+        "name": "LACTOSE",
+        "cas": "63-42-3"
+      }
+    },
+    {
+      "source_name": "MALTOSE",
+      "crosswalk": {
+        "id": "cosing-35143",
+        "name": "MALTOSE",
+        "cas": "69-79-4"
+      }
+    },
+    {
+      "source_name": "INVERT SUGAR"
+    },
+    {
+      "source_name": "INVERT SUGAR SYRUP"
+    },
+    {
+      "source_name": "CORN SYRUP"
+    },
+    {
+      "source_name": "CORN SYRUP SOLIDS"
+    },
+    {
+      "source_name": "HONEY"
+    },
+    {
+      "source_name": "MOLASSES"
+    },
+    {
+      "source_name": "MALTODEXTRIN",
+      "crosswalk": {
+        "id": "cosing-35142",
+        "name": "MALTODEXTRIN",
+        "cas": "9050-36-6"
+      }
+    },
+    {
+      "source_name": "DEXTRIN",
+      "crosswalk": {
+        "id": "cosing-75529",
+        "name": "DEXTRIN",
+        "cas": "9004-53-9"
+      }
+    },
+    {
+      "source_name": "STARCH, UNMODIFIED"
+    },
+    {
+      "source_name": "CORNSTARCH"
+    },
+    {
+      "source_name": "POTATO STARCH"
+    },
+    {
+      "source_name": "RICE STARCH"
+    },
+    {
+      "source_name": "TAPIOCA STARCH"
+    },
+    {
+      "source_name": "WHEAT STARCH"
+    },
+    {
+      "source_name": "WHEAT GLUTEN"
+    },
+    {
+      "source_name": "STARCH, FOOD, MODIFIED"
+    },
+    {
+      "source_name": "SODIUM BICARBONATE",
+      "crosswalk": {
+        "id": "cosing-37736",
+        "name": "SODIUM BICARBONATE",
+        "cas": "144-55-8"
+      }
+    },
+    {
+      "source_name": "SODIUM CARBONATE",
+      "crosswalk": {
+        "id": "cosing-37794",
+        "name": "SODIUM CARBONATE",
+        "cas": "497-19-8"
+      }
+    },
+    {
+      "source_name": "AMMONIUM BICARBONATE"
+    },
+    {
+      "source_name": "POTASSIUM BICARBONATE"
+    },
+    {
+      "source_name": "MONOCALCIUM PHOSPHATE"
+    },
+    {
+      "source_name": "DICALCIUM PHOSPHATE"
+    },
+    {
+      "source_name": "TRICALCIUM PHOSPHATE"
+    },
+    {
+      "source_name": "SODIUM ACID PYROPHOSPHATE"
+    },
+    {
+      "source_name": "SODIUM ALUMINUM PHOSPHATE"
+    },
+    {
+      "source_name": "CITRIC ACID",
+      "crosswalk": {
+        "id": "chebi-30769",
+        "name": "citric acid",
+        "cas": "77-92-9"
+      }
+    },
+    {
+      "source_name": "LACTIC ACID",
+      "crosswalk": {
+        "id": "cosing-34809",
+        "name": "LACTIC ACID",
+        "cas": "50-21-5"
+      }
+    },
+    {
+      "source_name": "ACETIC ACID"
+    },
+    {
+      "source_name": "MALIC ACID"
+    },
+    {
+      "source_name": "TARTARIC ACID"
+    },
+    {
+      "source_name": "FUMARIC ACID"
+    },
+    {
+      "source_name": "ASCORBIC ACID"
+    },
+    {
+      "source_name": "SODIUM ASCORBATE"
+    },
+    {
+      "source_name": "CALCIUM ASCORBATE"
+    },
+    {
+      "source_name": "ERYTHORBIC ACID"
+    },
+    {
+      "source_name": "SODIUM ERYTHORBATE"
+    },
+    {
+      "source_name": "SODIUM CITRATE"
+    },
+    {
+      "source_name": "POTASSIUM CITRATE"
+    },
+    {
+      "source_name": "SODIUM BENZOATE",
+      "crosswalk": {
+        "id": "cosing-37735",
+        "name": "SODIUM BENZOATE",
+        "cas": "532-32-1"
+      }
+    },
+    {
+      "source_name": "POTASSIUM SORBATE"
+    },
+    {
+      "source_name": "SORBIC ACID",
+      "crosswalk": {
+        "id": "cosing-38173",
+        "name": "SORBIC ACID",
+        "cas": "110-44-1"
+      }
+    },
+    {
+      "source_name": "CALCIUM PROPIONATE"
+    },
+    {
+      "source_name": "SODIUM PROPIONATE"
+    },
+    {
+      "source_name": "PROPIONIC ACID"
+    },
+    {
+      "source_name": "SODIUM METABISULFITE"
+    },
+    {
+      "source_name": "POTASSIUM METABISULFITE"
+    },
+    {
+      "source_name": "SODIUM SULFITE"
+    },
+    {
+      "source_name": "SODIUM BISULFITE"
+    },
+    {
+      "source_name": "SODIUM NITRITE"
+    },
+    {
+      "source_name": "SODIUM NITRATE"
+    },
+    {
+      "source_name": "POTASSIUM NITRATE"
+    },
+    {
+      "source_name": "MONOSODIUM GLUTAMATE"
+    },
+    {
+      "source_name": "DISODIUM INOSINATE"
+    },
+    {
+      "source_name": "DISODIUM GUANYLATE"
+    },
+    {
+      "source_name": "BAKERS YEAST EXTRACT"
+    },
+    {
+      "source_name": "PROTEIN, VEGETABLE, HYDROLYZED"
+    },
+    {
+      "source_name": "GUAR, GUM (CYAMOPSIS TETRAGONOLOBUS (L.))"
+    },
+    {
+      "source_name": "XANTHAN GUM",
+      "crosswalk": {
+        "id": "cosing-80699",
+        "name": "XANTHAN GUM",
+        "cas": "11138-66-2"
+      }
+    },
+    {
+      "source_name": "LOCUST (CAROB) BEAN GUM"
+    },
+    {
+      "source_name": "CARRAGEENAN",
+      "crosswalk": {
+        "id": "cosing-88730",
+        "name": "CARRAGEENAN",
+        "cas": "9000-07-1"
+      }
+    },
+    {
+      "source_name": "PECTIN",
+      "crosswalk": {
+        "id": "cosing-35880",
+        "name": "PECTIN",
+        "cas": "9000-69-5"
+      }
+    },
+    {
+      "source_name": "AGAR (GELIDIUM SPP.)"
+    },
+    {
+      "source_name": "SODIUM ALGINATE"
+    },
+    {
+      "source_name": "ALGINIC ACID"
+    },
+    {
+      "source_name": "GUM ARABIC"
+    },
+    {
+      "source_name": "GELLAN GUM"
+    },
+    {
+      "source_name": "KONJAC FLOUR"
+    },
+    {
+      "source_name": "CELLULOSE"
+    },
+    {
+      "source_name": "CELLULOSE, MICROCRYSTALLINE"
+    },
+    {
+      "source_name": "CARBOXYMETHYL CELLULOSE, SODIUM SALT"
+    },
+    {
+      "source_name": "LECITHIN"
+    },
+    {
+      "source_name": "LECITHIN (VEGETABLE)"
+    },
+    {
+      "source_name": "MONO- AND DIGLYCERIDES"
+    },
+    {
+      "source_name": "POLYSORBATE 80",
+      "crosswalk": {
+        "id": "cosing-36902",
+        "name": "POLYSORBATE 80",
+        "cas": "9005-65-6"
+      }
+    },
+    {
+      "source_name": "POLYSORBATE 60",
+      "crosswalk": {
+        "id": "cosing-79321",
+        "name": "POLYSORBATE 60",
+        "cas": "9005-67-8"
+      }
+    },
+    {
+      "source_name": "POLYSORBATE 20",
+      "crosswalk": {
+        "id": "cosing-79318",
+        "name": "POLYSORBATE 20",
+        "cas": "9005-64-5"
+      }
+    },
+    {
+      "source_name": "SORBITAN MONOSTEARATE"
+    },
+    {
+      "source_name": "GLYCERIN",
+      "crosswalk": {
+        "id": "chebi-17754",
+        "name": "glycerol",
+        "cas": "56-81-5"
+      }
+    },
+    {
+      "source_name": "D-SORBITOL"
+    },
+    {
+      "source_name": "MANNITOL",
+      "crosswalk": {
+        "id": "cosing-35167",
+        "name": "MANNITOL",
+        "cas": "69-65-8"
+      }
+    },
+    {
+      "source_name": "XYLITOL",
+      "crosswalk": {
+        "id": "cosing-38920",
+        "name": "XYLITOL",
+        "cas": "87-99-0"
+      }
+    },
+    {
+      "source_name": "ERYTHRITOL"
+    },
+    {
+      "source_name": "MALTITOL"
+    },
+    {
+      "source_name": "LACTITOL"
+    },
+    {
+      "source_name": "ISOMALT"
+    },
+    {
+      "source_name": "SUCRALOSE"
+    },
+    {
+      "source_name": "ASPARTAME"
+    },
+    {
+      "source_name": "ACESULFAME POTASSIUM"
+    },
+    {
+      "source_name": "SACCHARIN"
+    },
+    {
+      "source_name": "SODIUM SACCHARIN"
+    },
+    {
+      "source_name": "STEVIOL GLYCOSIDES"
+    },
+    {
+      "source_name": "SILICON DIOXIDE"
+    },
+    {
+      "source_name": "CALCIUM SILICATE"
+    },
+    {
+      "source_name": "MAGNESIUM STEARATE"
+    },
+    {
+      "source_name": "CALCIUM STEARATE"
+    },
+    {
+      "source_name": "TALC",
+      "crosswalk": {
+        "id": "cosing-38438",
+        "name": "TALC",
+        "cas": "14807-96-6"
+      }
+    },
+    {
+      "source_name": "TITANIUM DIOXIDE",
+      "crosswalk": {
+        "id": "cosing-38617",
+        "name": "TITANIUM DIOXIDE",
+        "cas": "13463-67-7"
+      }
+    },
+    {
+      "source_name": "CARAMEL"
+    },
+    {
+      "source_name": "ANNATTO EXTRACT"
+    },
+    {
+      "source_name": "BETA-CAROTENE"
+    },
+    {
+      "source_name": "RIBOFLAVIN"
+    },
+    {
+      "source_name": "CURCUMIN"
+    },
+    {
+      "source_name": "GARLIC"
+    },
+    {
+      "source_name": "GARLIC EXTRACT"
+    },
+    {
+      "source_name": "TURMERIC (CURCUMA LONGA L.)",
+      "curated_aliases": {
+        "turmeric": "TURMERIC"
+      }
+    },
+    {
+      "source_name": "CUMIN (CUMINUM CYMINUM L.)",
+      "curated_aliases": {
+        "cumin": "CUMIN"
+      }
+    },
+    {
+      "source_name": "CORIANDER (CORIANDRUM SATIVUM L.)",
+      "curated_aliases": {
+        "coriander": "CORIANDER"
+      }
+    },
+    {
+      "source_name": "PEPPER, BLACK (PIPER NIGRUM L.)"
+    },
+    {
+      "source_name": "PEPPER, WHITE (PIPER NIGRUM L.)"
+    },
+    {
+      "source_name": "PEPPER, RED"
+    },
+    {
+      "source_name": "PEPPER, CAYENNE"
+    },
+    {
+      "source_name": "CINNAMON (CINNAMOMUM SPP.)"
+    },
+    {
+      "source_name": "GINGER (ZINGIBER OFFICINALE ROSC.)"
+    },
+    {
+      "source_name": "CLOVES (EUGENIA SPP.)"
+    },
+    {
+      "source_name": "CARDAMOM (ELLETARIA CARDAMOMUM (L.) MATON)"
+    },
+    {
+      "source_name": "NUTMEG (MYRISTICA FRAGRANS HOUTT.)"
+    },
+    {
+      "source_name": "FENNEL (FOENICULUM VULGARE MILL.)"
+    },
+    {
+      "source_name": "MUSTARD FLOUR"
+    },
+    {
+      "source_name": "VANILLIN"
+    },
+    {
+      "source_name": "ETHYL VANILLIN"
+    },
+    {
+      "source_name": "COCOA"
+    },
+    {
+      "source_name": "CAFFEINE"
+    },
+    {
+      "source_name": "TOCOPHEROLS"
+    },
+    {
+      "source_name": "BUTYLATED HYDROXYANISOLE"
+    },
+    {
+      "source_name": "BUTYLATED HYDROXYTOLUENE"
+    },
+    {
+      "source_name": "TERT-BUTYLHYDROQUINONE"
+    },
+    {
+      "source_name": "ROSEMARY EXTRACT"
+    },
+    {
+      "source_name": "ETHANOL"
+    },
+    {
+      "source_name": "WHEY"
+    },
+    {
+      "source_name": "WHEY, DELACTOSED"
+    },
+    {
+      "source_name": "WHEY, DEMINERALIZED"
+    },
+    {
+      "source_name": "WHEY PROTEIN CONCENTRATE"
+    },
+    {
+      "source_name": "CASEIN"
+    },
+    {
+      "source_name": "ANISE (PIMPINELLA ANISUM L.)"
+    },
+    {
+      "source_name": "FENUGREEK (TRIGONELLA FOENUM-GRAECUM L.)"
+    },
+    {
+      "source_name": "CAPSICUM EXTRACT (CAPSICUM SPP.)"
+    },
+    {
+      "source_name": "POTASSIUM CHLORIDE",
+      "crosswalk": {
+        "id": "cosing-36948",
+        "name": "POTASSIUM CHLORIDE",
+        "cas": "7447-40-7"
+      }
+    }
+  ],
+  "role_priority": [
+    "FLAVOR ENHANCER",
+    "FLAVORING AGENT OR ADJUVANT",
+    "NUTRITIVE SWEETENER",
+    "NON-NUTRITIVE SWEETENER",
+    "STABILIZER OR THICKENER",
+    "ANTIMICROBIAL AGENT",
+    "ANTIOXIDANT",
+    "LEAVENING AGENT",
+    "EMULSIFIER OR EMULSIFIER SALT",
+    "PH CONTROL AGENT",
+    "HUMECTANT",
+    "TEXTURIZER"
+  ],
+  "code_sources": [
+    {
+      "source_name": "CITRIC ACID",
+      "chebi": 30769,
+      "name": "citric acid",
+      "cas": "77-92-9",
+      "aliases": [
+        "E330",
+        "E-330",
+        "INS-330"
+      ]
+    },
+    {
+      "source_name": "GLYCERIN",
+      "chebi": 17754,
+      "name": "glycerol",
+      "cas": "56-81-5",
+      "aliases": [
+        "E422",
+        "E-422",
+        "INS-422"
+      ]
+    }
+  ],
+  "staples": [
+    {
+      "id": "food-wheat-flour",
+      "name": "wheat flour",
+      "aliases": [
+        "white flour",
+        "plain flour",
+        "refined wheat flour"
+      ],
+      "section": "137-105",
+      "expected_subject": "Flour.",
+      "evidence": "Flour, white flour, wheat flour, plain flour, is the food prepared by grinding and bolting cleaned wheat, other than durum wheat and red durum wheat.",
+      "description": "Wheat flour is made by grinding and sifting cleaned wheat. This record describes white/plain wheat flour; it does not identify every kind of flour."
+    },
+    {
+      "id": "food-spices",
+      "name": "spices",
+      "aliases": [
+        "spice"
+      ],
+      "section": "101-22",
+      "expected_subject": "Foods; labeling of spices, flavorings, colorings and chemical preservatives.",
+      "evidence": "The term spice means any aromatic vegetable substance in the whole, broken, or ground form",
+      "description": "Spices are aromatic plant ingredients used mainly for seasoning. This broad label term does not identify the individual spices in a blend."
+    },
+    {
+      "section": "101-22",
+      "expected_subject": "Foods; labeling of spices, flavorings, colorings and chemical preservatives.",
+      "id": "food-onion-powder",
+      "name": "onion powder",
+      "aliases": [
+        "powdered onion",
+        "powdered onions"
+      ],
+      "evidence": "powdered or granulated onions",
+      "description": "Onion powder is a processed onion ingredient, identified separately from the broad term spices."
+    },
+    {
+      "section": "101-22",
+      "expected_subject": "Foods; labeling of spices, flavorings, colorings and chemical preservatives.",
+      "id": "food-garlic-powder",
+      "name": "garlic powder",
+      "aliases": [],
+      "evidence": "garlic powder",
+      "description": "Garlic powder is a processed garlic ingredient, identified separately from the broad term spices."
+    },
+    {
+      "section": "101-22",
+      "expected_subject": "Foods; labeling of spices, flavorings, colorings and chemical preservatives.",
+      "id": "food-celery-powder",
+      "name": "celery powder",
+      "aliases": [],
+      "evidence": "celery powder",
+      "description": "Celery powder is a processed celery ingredient, identified separately from the broad term spices."
+    },
+    {
+      "id": "food-nonfat-dry-milk",
+      "name": "nonfat dry milk",
+      "aliases": [
+        "skimmed milk powder",
+        "skim milk powder"
+      ],
+      "section": "131-125",
+      "expected_subject": "Nonfat dry milk.",
+      "evidence": "Nonfat dry milk is the product obtained by removal of water only from pasteurized skim milk.",
+      "description": "Nonfat dry milk is made by removing water from pasteurized skim milk."
+    },
+    {
+      "id": "food-dry-whole-milk",
+      "name": "dry whole milk",
+      "aliases": [
+        "whole milk powder"
+      ],
+      "section": "131-147",
+      "expected_subject": "Dry whole milk.",
+      "evidence": "Dry whole milk is the product obtained by removal of water only from pasteurized milk",
+      "description": "Dry whole milk is dried milk that retains milkfat and other milk constituents. This record identifies whole milk powder, not every unspecified milk powder."
+    }
+  ]
+}

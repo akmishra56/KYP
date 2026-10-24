@@ -1,0 +1,14 @@
+[
+  {
+    "product_id": "replace-with-product-id",
+    "image_id": "replace-with-unique-image-id",
+    "position": 0,
+    "context": "food",
+    "split": "baseline",
+    "is_real": false,
+    "permission": "Replace with actual usage permission",
+    "reviewed_by": "Replace with ground-truth reviewer",
+    "phrase": "replace with a real OCR phrase",
+    "expected_id": null
+  }
+]

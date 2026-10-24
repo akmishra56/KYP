@@ -1,0 +1,474 @@
+{
+  "retrieved_at": "2026-10-23T10:03:55.614659+00:00",
+  "ingredients": [
+    {
+      "nameOfCommonIngredientsGlossary": [
+        "AQUA"
+      ],
+      "otherRestrictions": [
+        "ban substances that deplete the ozone layer"
+      ],
+      "note": [],
+      "refNo": [],
+      "sccsOpinionUrls": [],
+      "innName": [
+        "water"
+      ],
+      "other": [],
+      "itemType": [
+        "ingredient"
+      ],
+      "chemicalName": [],
+      "sccsOpinion": [],
+      "esST_DATASOURCE": [
+        "GROWTH_COSING"
+      ],
+      "refNo_letter": [],
+      "language": [
+        "en"
+      ],
+      "chemicalDescription": [
+        "Water"
+      ],
+      "esST_checksum": [
+        "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      ],
+      "reference": [
+        "A07E697F261138D9250708CC5634FEFE"
+      ],
+      "cosmeticRestriction": [],
+      "ecNo": [
+        "231-791-2"
+      ],
+      "maximumConcentration": [],
+      "identifiedIngredient": [],
+      "officialJournalPublication": [
+        "Y"
+      ],
+      "inciName": [
+        "AQUA"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "casNo": [
+        "7732-18-5"
+      ],
+      "substanceId": [
+        "31959"
+      ],
+      "annexNo": [],
+      "productTypeBodyParts": [],
+      "phEurName": [
+        "aqua"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "otherRegulations": [],
+      "classificationInformation": [
+        "[]"
+      ],
+      "functionName": [
+        "SOLVENT"
+      ],
+      "esDA_IngestDate": [
+        "2023-05-22T14:42:34.636+0200"
+      ],
+      "currentVersion": [
+        "1"
+      ],
+      "corporate-search-version": [
+        "102"
+      ],
+      "url": [
+        "urn:test"
+      ],
+      "esST_URL": [
+        "urn:test"
+      ],
+      "esDA_QueueDate": [
+        "2023-05-22T14:42:34.612+0200"
+      ],
+      "refNo_digit": [],
+      "colour": [],
+      "datasource": [
+        "GROWTH_COSING"
+      ],
+      "wordingOfConditions": [],
+      "inciUsaName": [
+        "WATER; ONSEN-SUI"
+      ],
+      "relatedRegulations": [],
+      "perfuming": [
+        "N"
+      ],
+      "status": [
+        "Active"
+      ]
+    },
+    {
+      "nameOfCommonIngredientsGlossary": [
+        "NIACINAMIDE"
+      ],
+      "otherRestrictions": [],
+      "note": [],
+      "refNo": [],
+      "sccsOpinionUrls": [],
+      "innName": [
+        "nicotinamide"
+      ],
+      "other": [],
+      "itemType": [
+        "ingredient"
+      ],
+      "chemicalName": [
+        "3-Pyridinecarboxamide"
+      ],
+      "sccsOpinion": [],
+      "esST_DATASOURCE": [
+        "GROWTH_COSING"
+      ],
+      "refNo_letter": [],
+      "language": [
+        "en"
+      ],
+      "chemicalDescription": [],
+      "esST_checksum": [
+        "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      ],
+      "reference": [
+        "A3719EC929627A459FB1B958ABC2763C"
+      ],
+      "cosmeticRestriction": [],
+      "ecNo": [
+        "202-713-4"
+      ],
+      "maximumConcentration": [],
+      "identifiedIngredient": [],
+      "officialJournalPublication": [
+        "Y"
+      ],
+      "inciName": [
+        "NIACINAMIDE"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "casNo": [
+        "98-92-0"
+      ],
+      "substanceId": [
+        "35499"
+      ],
+      "annexNo": [],
+      "productTypeBodyParts": [],
+      "phEurName": [
+        "nicotinamidum"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "otherRegulations": [],
+      "classificationInformation": [
+        "[]"
+      ],
+      "functionName": [
+        "SMOOTHING"
+      ],
+      "esDA_IngestDate": [
+        "2023-05-22T13:13:46.895+0200"
+      ],
+      "currentVersion": [
+        "1"
+      ],
+      "corporate-search-version": [
+        "102"
+      ],
+      "url": [
+        "urn:test"
+      ],
+      "esST_URL": [
+        "urn:test"
+      ],
+      "esDA_QueueDate": [
+        "2023-05-22T13:13:46.864+0200"
+      ],
+      "refNo_digit": [],
+      "colour": [],
+      "datasource": [
+        "GROWTH_COSING"
+      ],
+      "wordingOfConditions": [],
+      "inciUsaName": [],
+      "relatedRegulations": [],
+      "perfuming": [
+        "N"
+      ],
+      "status": [
+        "Active"
+      ]
+    },
+    {
+      "nameOfCommonIngredientsGlossary": [
+        "RETINOL"
+      ],
+      "refNo": [],
+      "otherRestrictions": [],
+      "note": [],
+      "sccsOpinionUrls": [
+        "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_199.pdf"
+      ],
+      "itemType": [
+        "ingredient"
+      ],
+      "other": [],
+      "innName": [
+        "retinol [INN:BAN]"
+      ],
+      "chemicalName": [
+        "Retinol; vitamin A"
+      ],
+      "sccsOpinion": [
+        "OPINION ON Vitamin A (Retinol, Retinyl Acetate, Retinyl Palmitate)"
+      ],
+      "esST_DATASOURCE": [
+        "GROWTH_COSING"
+      ],
+      "refNo_letter": [],
+      "language": [
+        "en"
+      ],
+      "chemicalDescription": [
+        "Retinol is the organic compound that conforms to the formula:"
+      ],
+      "esST_checksum": [
+        "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      ],
+      "esST_REFERENCE": [
+        "178947b1-cb70-4b72-bf3a-e4102161f113"
+      ],
+      "reference": [
+        "A9922F84675A192AF928ED157DD7467A"
+      ],
+      "cosmeticRestriction": [
+        "III/376"
+      ],
+      "ecNo": [
+        "200-683-7 / 234-328-2"
+      ],
+      "maximumConcentration": [],
+      "identifiedIngredient": [
+        "104250"
+      ],
+      "inciName": [
+        "RETINOL"
+      ],
+      "officialJournalPublication": [
+        "Y"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "casNo": [
+        "68-26-8 / 11103-57-4"
+      ],
+      "substanceId": [
+        "37479"
+      ],
+      "productTypeBodyParts": [],
+      "annexNo": [],
+      "phEurName": [
+        "vitaminum a"
+      ],
+      "es_ContentType": [
+        "application/octet-stream"
+      ],
+      "otherRegulations": [],
+      "classificationInformation": [
+        "[]"
+      ],
+      "functionName": [
+        "SKIN CONDITIONING - MISCELLANEOUS"
+      ],
+      "esDA_IngestDate": [
+        "2025-03-11T09:13:05.571+0100"
+      ],
+      "currentVersion": [
+        "1"
+      ],
+      "url": [
+        "urn:test"
+      ],
+      "esST_URL": [
+        "urn:test"
+      ],
+      "esDA_QueueDate": [
+        "2025-03-11T09:13:05.563+0100"
+      ],
+      "refNo_digit": [],
+      "colour": [],
+      "wordingOfConditions": [],
+      "inciUsaName": [],
+      "relatedRegulations": [],
+      "perfuming": [
+        "N"
+      ],
+      "status": [
+        "Active"
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "itemType": [
+        "function"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2023-05-10T16:05:35.401+0200"
+      ],
+      "functionName": [
+        "SKIN CONDITIONING - MISCELLANEOUS"
+      ],
+      "esST_DATASOURCE": [
+        "GROWTH_COSING"
+      ],
+      "esDA_IngestDate": [
+        "2023-05-10T16:05:35.483+0200"
+      ],
+      "language": [
+        "en"
+      ],
+      "esST_checksum": [
+        "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      ],
+      "url": [
+        "urn:test"
+      ],
+      "corporate-search-version": [
+        "102"
+      ],
+      "esST_URL": [
+        "urn:test"
+      ],
+      "esDA_QueueDate": [
+        "2023-05-10T16:05:35.456+0200"
+      ],
+      "functionId": [
+        "570"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "datasource": [
+        "GROWTH_COSING"
+      ],
+      "functionDescription": [
+        "Enhancing the appearance of dry and/or damaged skin by reducing flaking and restoring suppleness."
+      ]
+    },
+    {
+      "itemType": [
+        "function"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2023-05-10T16:05:36.295+0200"
+      ],
+      "functionName": [
+        "SMOOTHING"
+      ],
+      "esST_DATASOURCE": [
+        "GROWTH_COSING"
+      ],
+      "esDA_IngestDate": [
+        "2023-05-10T16:05:36.379+0200"
+      ],
+      "language": [
+        "en"
+      ],
+      "esST_checksum": [
+        "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      ],
+      "url": [
+        "urn:test"
+      ],
+      "corporate-search-version": [
+        "102"
+      ],
+      "esST_URL": [
+        "urn:test"
+      ],
+      "esDA_QueueDate": [
+        "2023-05-10T16:05:36.350+0200"
+      ],
+      "functionId": [
+        "54"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "datasource": [
+        "GROWTH_COSING"
+      ],
+      "functionDescription": [
+        "Seeking to achieve an even skin surface by decreasing roughness or irregularities."
+      ]
+    },
+    {
+      "itemType": [
+        "function"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "es_SortDate": [
+        "2023-05-10T16:05:36.496+0200"
+      ],
+      "functionName": [
+        "SOLVENT"
+      ],
+      "esST_DATASOURCE": [
+        "GROWTH_COSING"
+      ],
+      "esDA_IngestDate": [
+        "2023-05-10T16:05:36.562+0200"
+      ],
+      "language": [
+        "en"
+      ],
+      "esST_checksum": [
+        "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      ],
+      "url": [
+        "urn:test"
+      ],
+      "corporate-search-version": [
+        "102"
+      ],
+      "esST_URL": [
+        "urn:test"
+      ],
+      "esDA_QueueDate": [
+        "2023-05-10T16:05:36.537+0200"
+      ],
+      "functionId": [
+        "55"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "datasource": [
+        "GROWTH_COSING"
+      ],
+      "functionDescription": [
+        "Dissolving other components of cosmetics. Solvents are usually liquids (aqueous and nonaqueous)."
+      ]
+    }
+  ]
+}

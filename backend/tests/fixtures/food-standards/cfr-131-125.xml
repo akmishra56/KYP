@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+    <FDSYS>
+        <CFRTITLE>21</CFRTITLE>
+        <CFRTITLETEXT>Food and Drugs</CFRTITLETEXT>
+        <VOL>2</VOL>
+        <DATE>2025-04-01</DATE>
+        <COVERONLY>false</COVERONLY>
+        <ORIGINALDATE>2025-04-01</ORIGINALDATE>
+        <ANCESTORS>
+            <PARENT HEADING="Title 21" SEQ="4">Food and Drugs</PARENT>
+            <PARENT HEADING="CHAPTER I" SEQ="3">FOOD AND DRUG ADMINISTRATION, DEPARTMENT OF HEALTH AND HUMAN SERVICES (CONTINUED)</PARENT>
+            <PARENT HEADING="SUBCHAPTER B" SEQ="2">FOOD FOR HUMAN CONSUMPTION</PARENT>
+            <PARENT HEADING="PART 131" SEQ="1">MILK AND CREAM</PARENT>
+            <PARENT HEADING="Subpart B" SEQ="0">Requirements for Specific Standardized Milk and Cream</PARENT>
+        </ANCESTORS>
+    </FDSYS>
+    <SECTION>
+        <SECTNO>§ 131.125</SECTNO>
+        <SUBJECT>Nonfat dry milk.</SUBJECT>
+        <P>
+            (a) 
+            <E T="03">Description.</E>
+             Nonfat dry milk is the product obtained by removal of water only from pasteurized skim milk. It contains not more than 5 percent by weight of moisture, and not more than 1
+            <FR>1/2</FR>
+             percent by weight of milkfat unless otherwise indicated.
+        </P>
+        <P>
+            (b) 
+            <E T="03">Optional ingredients.</E>
+             Safe and suitable characterizing flavoring ingredients (with or without coloring and nutritive carbohydrate sweetener) as follows:
+        </P>
+        <P>(1) Fruit and fruit juice, including concentrated fruit and fruit juice.</P>
+        <P>(2) Natural and artificial food flavorings.</P>
+        <P>
+            (c) 
+            <E T="03">Methods of analysis.</E>
+             The following referenced methods of analysis are from “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: 
+            <E T="03">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</E>
+            <PRTPAGE P="483"/>
+        </P>
+        <P>(1) Milkfat content—“Fat in Dried Milk—Official Final Action,” sections 16.199-16.200.</P>
+        <P>(2) Moisture content—“Moisture—Official Final Action,” section 16.192.</P>
+        <P>
+            (d) 
+            <E T="03">Nomenclature.</E>
+             The name of the food is “Nonfat dry milk”. If the fat content is over 1
+            <FR>1/2</FR>
+             percent by weight, the name of the food on the principal display panel or panels shall be accompanied by the statement “Contains __% milkfat”, the blank to be filled in with the percentage to the nearest one-tenth of 1 percent of fat contained, within limits of good manufacturing practice. The name of the food shall include a declaration of the presence of any characterizing flavoring, as specified in § 101.22 of this chapter.
+        </P>
+        <P>
+            (e) 
+            <E T="03">Label declaration.</E>
+             Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+        </P>
+        <CITA>[42 FR 14360, Mar. 15, 1977, as amended at 43 FR 19836, May 9, 1978; 47 FR 11823, Mar. 19, 1982; 49 FR 10091, Mar. 19, 1984; 54 FR 24892, June 12, 1989; 58 FR 2890, Jan. 6, 1993]</CITA>
+    </SECTION>
+</CFRGRANULE>

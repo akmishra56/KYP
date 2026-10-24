@@ -1,0 +1,12 @@
+{
+  "product": "Maggi Masala-ae-Magic",
+  "scope": "Corrected diagnostic text from supplied packaging/OCR, corroborated with manufacturer ingredient names. Not independently reviewed label ground truth or an OCR benchmark.",
+  "independently_reviewed": false,
+  "text": "Ingredients: Mixed spices (35.6%) (Roasted spice powder (17.8%) (Cumin, Coriander, Turmeric, Aniseed, Black pepper, Fenugreek, Ginger, Clove, Green cardamom powder, Nutmeg), Red chilli powder, Dehydrated onion, Dried garlic, Capsicum extract, Coriander extract, Cumin extract), Iodized salt, Sugar, Starch, Flavour enhancer (635), Thickener (508), Acidity regulator (330), Palm oil, Natural flavouring substance, Mineral and Vitamin.",
+  "expected_total": 25,
+  "expected_matched": 24,
+  "expected_food_descriptions": 23,
+  "expected_unspecified": [
+    "Mineral and Vitamin"
+  ]
+}

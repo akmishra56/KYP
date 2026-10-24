@@ -1,0 +1,745 @@
+{
+  "30769": {
+    "id": 30769,
+    "ascii_name": "citric acid",
+    "stars": 3,
+    "names": {
+      "BRAND NAME": [
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid component of clenpiq",
+          "language_code": "en",
+          "name": "Citric acid component of clenpiq",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid component of phexxi",
+          "language_code": "en",
+          "name": "Citric acid component of phexxi",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid component of prepopik",
+          "language_code": "en",
+          "name": "Citric acid component of prepopik",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid component of renacidin",
+          "language_code": "en",
+          "name": "Citric acid component of renacidin",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Urologic g",
+          "language_code": "en",
+          "name": "Urologic g",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        }
+      ],
+      "IUPAC NAME": [
+        {
+          "adapted": false,
+          "ascii_name": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+          "language_code": "en",
+          "name": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+          "source": "IUPAC",
+          "status": "C",
+          "type": "IUPAC NAME"
+        }
+      ],
+      "SYNONYM": [
+        {
+          "adapted": false,
+          "ascii_name": "2-Hydroxy-1,2,3-propanetricarboxylic acid",
+          "language_code": "en",
+          "name": "2-Hydroxy-1,2,3-propanetricarboxylic acid",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "2-Hydroxytricarballylic acid",
+          "language_code": "en",
+          "name": "2-Hydroxytricarballylic acid",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "3-Carboxy-3-hydroxypentane-1,5-dioic acid",
+          "language_code": "en",
+          "name": "3-Carboxy-3-hydroxypentane-1,5-dioic acid",
+          "source": "HMDB",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Acidum citricum",
+          "language_code": "en",
+          "name": "Acidum citricum",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Acidum citricum monohydrate",
+          "language_code": "en",
+          "name": "Acidum citricum monohydrate",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "B1650",
+          "language_code": "en",
+          "name": "B1650",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid",
+          "language_code": "en",
+          "name": "Citric acid",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "CITRIC ACID",
+          "language_code": "en",
+          "name": "CITRIC ACID",
+          "source": "PDBeChem",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid anhydrous",
+          "language_code": "en",
+          "name": "Citric acid anhydrous",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid, anhydrous",
+          "language_code": "en",
+          "name": "Citric acid, anhydrous",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid,anhydrous",
+          "language_code": "en",
+          "name": "Citric acid,anhydrous",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid bp",
+          "language_code": "en",
+          "name": "Citric acid bp",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid hydrate",
+          "language_code": "en",
+          "name": "Citric acid hydrate",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid, hydrous",
+          "language_code": "en",
+          "name": "Citric acid, hydrous",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid,hydrous",
+          "language_code": "en",
+          "name": "Citric acid,hydrous",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citric acid monoglyceride",
+          "language_code": "en",
+          "name": "Citric acid monoglyceride",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citricum acidum",
+          "language_code": "en",
+          "name": "Citricum acidum",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Citronensaeure",
+          "language_code": "de",
+          "name": "Citronens\u00e4ure",
+          "source": "ChEBI",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "E-330",
+          "language_code": "en",
+          "name": "E-330",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "E330",
+          "language_code": "en",
+          "name": "E330",
+          "source": "ChEBI",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "FEMA NO. 2306",
+          "language_code": "en",
+          "name": "FEMA NO. 2306",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "H3cit",
+          "language_code": "en",
+          "name": "H<small><sub>3</sub></small>cit",
+          "source": "IUPAC",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "INS-330",
+          "language_code": "en",
+          "name": "INS-330",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "INS NO.330",
+          "language_code": "en",
+          "name": "INS NO.330",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "NSC-112226",
+          "language_code": "en",
+          "name": "NSC-112226",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "NSC-30279",
+          "language_code": "en",
+          "name": "NSC-30279",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "NSC-626579",
+          "language_code": "en",
+          "name": "NSC-626579",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        }
+      ]
+    },
+    "database_accessions": {
+      "CAS": [
+        {
+          "accession_number": "77-92-9",
+          "id": 84851,
+          "prefix": "chemidplus",
+          "source_name": "ChemIDplus",
+          "type": "CAS",
+          "url": "https://bioregistry.io/chemidplus:77-92-9"
+        },
+        {
+          "accession_number": "77-92-9",
+          "id": 84852,
+          "prefix": "nist",
+          "source_name": "NIST Chemistry WebBook",
+          "type": "CAS",
+          "url": "http://webbook.nist.gov/cgi/cbook.cgi?ID=77-92-9"
+        },
+        {
+          "accession_number": "77-92-9",
+          "id": 10706,
+          "prefix": "kegg.compound",
+          "source_name": "KEGG COMPOUND",
+          "type": "CAS",
+          "url": null
+        }
+      ]
+    }
+  },
+  "17754": {
+    "id": 17754,
+    "ascii_name": "glycerol",
+    "stars": 3,
+    "names": {
+      "BRAND NAME": [
+        {
+          "adapted": false,
+          "ascii_name": "Glycerin component of monoctanoin  d",
+          "language_code": "en",
+          "name": "Glycerin component of monoctanoin  d",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycerin component of procalamine",
+          "language_code": "en",
+          "name": "Glycerin component of procalamine",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycogelatin",
+          "language_code": "en",
+          "name": "Glycogelatin",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Keybells",
+          "language_code": "en",
+          "name": "Keybells",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Nirolex",
+          "language_code": "en",
+          "name": "Nirolex",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Senokot direct relief",
+          "language_code": "en",
+          "name": "Senokot direct relief",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Tixylix baby",
+          "language_code": "en",
+          "name": "Tixylix baby",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Tixylix toddler",
+          "language_code": "en",
+          "name": "Tixylix toddler",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Waterhouse",
+          "language_code": "en",
+          "name": "Waterhouse",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "BRAND NAME"
+        }
+      ],
+      "INN": [
+        {
+          "adapted": false,
+          "ascii_name": "glicerol",
+          "language_code": "es",
+          "name": "glicerol",
+          "source": "WHO MedNet",
+          "status": "S",
+          "type": "INN"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "glycerol",
+          "language_code": "en",
+          "name": "glycerol",
+          "source": "ChemIDplus",
+          "status": "C",
+          "type": "INN"
+        },
+        {
+          "adapted": true,
+          "ascii_name": "glycerolum",
+          "language_code": "la",
+          "name": "glycerolum",
+          "source": "ChemIDplus",
+          "status": "C",
+          "type": "INN"
+        }
+      ],
+      "IUPAC NAME": [
+        {
+          "adapted": false,
+          "ascii_name": "propane-1,2,3-triol",
+          "language_code": "en",
+          "name": "propane-1,2,3-triol",
+          "source": "IUPAC",
+          "status": "C",
+          "type": "IUPAC NAME"
+        }
+      ],
+      "SYNONYM": [
+        {
+          "adapted": false,
+          "ascii_name": "1,2,3-Propanetriol",
+          "language_code": "en",
+          "name": "1,2,3-Propanetriol",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "1,2,3-Trihydroxypropane",
+          "language_code": "en",
+          "name": "1,2,3-Trihydroxypropane",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "E-422",
+          "language_code": "en",
+          "name": "E-422",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "E422",
+          "language_code": "en",
+          "name": "E422",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "FEMA NO. 2525",
+          "language_code": "en",
+          "name": "FEMA NO. 2525",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "glycerin",
+          "language_code": "en",
+          "name": "glycerin",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycerin",
+          "language_code": "en",
+          "name": "Glycerin",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycerin,anhydrous",
+          "language_code": "en",
+          "name": "Glycerin,anhydrous",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "glycerine",
+          "language_code": "fr",
+          "name": "glyc\u00e9rine",
+          "source": "ChEBI",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycerinum",
+          "language_code": "en",
+          "name": "Glycerinum",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glyceritol",
+          "language_code": "en",
+          "name": "Glyceritol",
+          "source": "HMDB",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycerol",
+          "language_code": "en",
+          "name": "Glycerol",
+          "source": "KEGG COMPOUND",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "GLYCEROL",
+          "language_code": "en",
+          "name": "GLYCEROL",
+          "source": "PDBeChem",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "glycerol",
+          "language_code": "fr",
+          "name": "glyc\u00e9rol",
+          "source": "ChEBI",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glycerol 85%",
+          "language_code": "en",
+          "name": "Glycerol 85%",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": true,
+          "ascii_name": "glycyl alcohol",
+          "language_code": "en",
+          "name": "glycyl alcohol",
+          "source": "NIST Chemistry WebBook",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Glyzerin",
+          "language_code": "de",
+          "name": "Glyzerin",
+          "source": "ChEBI",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Gro",
+          "language_code": "en",
+          "name": "Gro",
+          "source": "JCBN",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "INS-422",
+          "language_code": "en",
+          "name": "INS-422",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "INS NO.422",
+          "language_code": "en",
+          "name": "INS NO.422",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "M 314429",
+          "language_code": "en",
+          "name": "M 314429",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "NSC-9230",
+          "language_code": "en",
+          "name": "NSC-9230",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Oelsuess",
+          "language_code": "de",
+          "name": "\u00d6ls\u00fc\u00df",
+          "source": "ChEBI",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Propanetriol",
+          "language_code": "en",
+          "name": "Propanetriol",
+          "source": "HMDB",
+          "status": "C",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "PZN 7474853",
+          "language_code": "en",
+          "name": "PZN 7474853",
+          "source": "ChEMBL",
+          "status": "S",
+          "type": "SYNONYM"
+        },
+        {
+          "adapted": false,
+          "ascii_name": "Trihydroxypropane",
+          "language_code": "en",
+          "name": "Trihydroxypropane",
+          "source": "HMDB",
+          "status": "C",
+          "type": "SYNONYM"
+        }
+      ],
+      "UNIPROT NAME": [
+        {
+          "adapted": false,
+          "ascii_name": "glycerol",
+          "language_code": "en",
+          "name": "glycerol",
+          "source": "UniProt",
+          "status": "C",
+          "type": "UNIPROT NAME"
+        }
+      ]
+    },
+    "database_accessions": {
+      "CAS": [
+        {
+          "accession_number": "56-81-5",
+          "id": 76579,
+          "prefix": "chemidplus",
+          "source_name": "ChemIDplus",
+          "type": "CAS",
+          "url": "https://bioregistry.io/chemidplus:56-81-5"
+        },
+        {
+          "accession_number": "56-81-5",
+          "id": 15504,
+          "prefix": "kegg.compound",
+          "source_name": "KEGG COMPOUND",
+          "type": "CAS",
+          "url": null
+        },
+        {
+          "accession_number": "56-81-5",
+          "id": 113113,
+          "prefix": "nist",
+          "source_name": "NIST Chemistry WebBook",
+          "type": "CAS",
+          "url": "http://webbook.nist.gov/cgi/cbook.cgi?ID=56-81-5"
+        }
+      ]
+    }
+  }
+}

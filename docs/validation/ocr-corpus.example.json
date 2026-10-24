@@ -1,0 +1,20 @@
+[
+  {
+    "image": "replace-with-permitted-image.jpg",
+    "product_id": "replace-with-product-id",
+    "context": "food",
+    "split": "baseline",
+    "is_real": false,
+    "permission": "Replace with actual usage permission",
+    "reviewed_by": "Replace with ground-truth reviewer",
+    "expected_tokens": [
+      "Salt",
+      "Sugar"
+    ],
+    "tags": [
+      "curved-packet",
+      "small-print"
+    ],
+    "recorded_ocr": {}
+  }
+]

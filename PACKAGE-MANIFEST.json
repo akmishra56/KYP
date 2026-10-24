@@ -1,0 +1,821 @@
+{
+  "format": 1,
+  "created_utc": "2026-10-24T07:37:29.424724+00:00",
+  "source_files": 162,
+  "source_bytes": 7575034,
+  "excludes": "Gitignored data, installed dependencies, models, private env/key files, Git metadata and machine-specific agent settings",
+  "database_included": false,
+  "setup": "MACBOOK-SETUP.md",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 130,
+      "sha256": "4f1514bbe86938769dbfe0902ef75edf15ee818aff625196f28e964ad25e5890"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 385,
+      "sha256": "c615b47b1b6ea21546fd5404cdce69fc0c89110ddb9092cf2b4b475fe5f09766"
+    },
+    {
+      "path": "KYP-build-brief.md",
+      "bytes": 11827,
+      "sha256": "f6819a9cd2dca5d3a7902bd9b94610f6467704ce474ae7d398dded725a5d128c"
+    },
+    {
+      "path": "KYP-design-mockup.html",
+      "bytes": 21803,
+      "sha256": "d503a263efc18e66779c863a558dbb73eb99648277cfe2f1c00633b272ae20fa"
+    },
+    {
+      "path": "KYP-development-plan.md",
+      "bytes": 18534,
+      "sha256": "08039d6e00221cbd0ff393934bcdb6357efa8c7eab075cd758d3b14c05cb4a97"
+    },
+    {
+      "path": "KYP-product-roadmap.md",
+      "bytes": 4992,
+      "sha256": "183a89dcd0d3c1357c70485c2e404595bbe569c41c1d58b94c12719451a725ba"
+    },
+    {
+      "path": "MACBOOK-SETUP.md",
+      "bytes": 9101,
+      "sha256": "b18e468179a580bd3f8d6ee4a6cd3f1b63f0d79f86c7101221e705d63d638f96"
+    },
+    {
+      "path": "README.md",
+      "bytes": 14236,
+      "sha256": "b587eb4900a81c301983f1347de04e2d33edee20c3f694e76d666abe1b046472"
+    },
+    {
+      "path": "backend/CATALOG-REVIEW.md",
+      "bytes": 3729,
+      "sha256": "82667d5c1553c876fb1d4ce25c461d55370a551cb472171d5c178bc898f315b0"
+    },
+    {
+      "path": "backend/FOOD-CATALOG-REVIEW.md",
+      "bytes": 7760,
+      "sha256": "1ce5d792d0b0801d3345d33eee069b48158d924d3c71dde26d47a773aad44b3d"
+    },
+    {
+      "path": "backend/STARTER-DATA-REVIEW.md",
+      "bytes": 2306,
+      "sha256": "1ae8b9e561b024f02180318ff170d289ea7616d24e811eca956244f8f59ac82e"
+    },
+    {
+      "path": "backend/examples/import-template.json",
+      "bytes": 649,
+      "sha256": "29f587b8ac6a04e6e2e7c61956c67314e4227726681aa9235da448234a0c63aa"
+    },
+    {
+      "path": "backend/kyp/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "backend/kyp/api.py",
+      "bytes": 12548,
+      "sha256": "903074dda3a883bf8dc9eaeb9010db269db45e335c3e902b10c7fda6a107b509"
+    },
+    {
+      "path": "backend/kyp/calibration.py",
+      "bytes": 5527,
+      "sha256": "6c97ffa913150a6c8d1a81e874852e793812b6d187983a503192be0c77d54f55"
+    },
+    {
+      "path": "backend/kyp/cli.py",
+      "bytes": 2921,
+      "sha256": "384e4bbdc692ac2faebd48ebf9d7c25aed979df2ef6cb46493ca57239fcbe518"
+    },
+    {
+      "path": "backend/kyp/cosing-policy.json",
+      "bytes": 12839,
+      "sha256": "845ea364984d3d299f5c70324a385cbe0579d08fa9db24f6eccaf179cf740408"
+    },
+    {
+      "path": "backend/kyp/cosing.py",
+      "bytes": 10205,
+      "sha256": "4ffe37bb9a7e49d0d535df81df355a8e64b69501d75ea8d1271e204f37acd165"
+    },
+    {
+      "path": "backend/kyp/evaluate_ocr.py",
+      "bytes": 4830,
+      "sha256": "2a313e46c17b7438447a99b9329f85a1d43fbd449f1ff372eedfb11198256275"
+    },
+    {
+      "path": "backend/kyp/food-enrichment-policy.json",
+      "bytes": 9555,
+      "sha256": "813f53ccca4242496743fe32da0af1a541e2e48be4e5ab6547239af9d549a7ff"
+    },
+    {
+      "path": "backend/kyp/food-policy.json",
+      "bytes": 16091,
+      "sha256": "2fdd8fbe19665736ec4b32b7b3c87988ab74454ace374c832b1382de03fa7d06"
+    },
+    {
+      "path": "backend/kyp/food.py",
+      "bytes": 14586,
+      "sha256": "f2f90e94d1aaf9424b3d6bb9191ef6615c9b5c8ee9af5452b681817fa2c1eba1"
+    },
+    {
+      "path": "backend/kyp/food_enrichment.py",
+      "bytes": 7511,
+      "sha256": "2783b269645d4724383bf01fad590d01e05a414abb1e9b4c254ef62a60ceffbf"
+    },
+    {
+      "path": "backend/kyp/ingest.py",
+      "bytes": 4977,
+      "sha256": "8e7a1994e12aabe88203a4542188cea0d278ec6173f3fc6e50e5ee6f37dd9a90"
+    },
+    {
+      "path": "backend/kyp/matcher.py",
+      "bytes": 7813,
+      "sha256": "2e9247969e892ea69933e01ded8e030dd3e84dd3c01363707d550a56fbaa467e"
+    },
+    {
+      "path": "backend/kyp/matching-policy.json",
+      "bytes": 413,
+      "sha256": "7f25c520b08cebd06651a6c61567f3fd9be36fecb43ec5dfcba0fbbc567fbf48"
+    },
+    {
+      "path": "backend/kyp/migrate.py",
+      "bytes": 2517,
+      "sha256": "964a055edc5fff9124feab879c517f72144257600ba42454326d67f50353bd9f"
+    },
+    {
+      "path": "backend/kyp/ocr.py",
+      "bytes": 7887,
+      "sha256": "e567a209d44d0a6aa949fd77ffc3756d969b8a30de8e142c545630b11073c29d"
+    },
+    {
+      "path": "backend/kyp/ocr_experiments.py",
+      "bytes": 1337,
+      "sha256": "a648a6df8eede18702a552dfcd5faeb7797644c8d0f2a93b57ff9a1f6dd3eb3f"
+    },
+    {
+      "path": "backend/kyp/operations.py",
+      "bytes": 3707,
+      "sha256": "ba31030b6ce95c394661df384113a2a97d333847bfc5caa58a20f785d1dcd113"
+    },
+    {
+      "path": "backend/kyp/orientation-policy.json",
+      "bytes": 1179,
+      "sha256": "71e181a2fa90a422bf95ea2227fbf4f574f1ed15deaab50b6f751de65c730546"
+    },
+    {
+      "path": "backend/kyp/orientation.py",
+      "bytes": 1145,
+      "sha256": "ebb5319b2ba89bd2d8fdb925185ef1475b8d806234517c06c65b7769e54c2ea3"
+    },
+    {
+      "path": "backend/kyp/parser.py",
+      "bytes": 5875,
+      "sha256": "ac51b2151a6e1b35e7dc48ddea872e32cd4cdef32840e7976987ff69adafdd50"
+    },
+    {
+      "path": "backend/kyp/repository.py",
+      "bytes": 18662,
+      "sha256": "a58fe65b04ced38f5a2f54b10be84c8e4a10dbf33c7d5dc39262a734b57501a2"
+    },
+    {
+      "path": "backend/kyp/source-policy.json",
+      "bytes": 1841,
+      "sha256": "1908e016322edd68e4cc023bed9c108f4c85478069e79593cd33c796da11afa3"
+    },
+    {
+      "path": "backend/kyp/static/index.html",
+      "bytes": 27737,
+      "sha256": "474adf8684606264fde06031e636ddc009c816e7064679ee70587e8a300ba5ed"
+    },
+    {
+      "path": "backend/kyp/vector_match.py",
+      "bytes": 3331,
+      "sha256": "bc6a321e00f361851c7c64c0196a302eb86c082982d8674348bd7306d43b7c2b"
+    },
+    {
+      "path": "backend/ocr-evaluation-requirements.txt",
+      "bytes": 140,
+      "sha256": "d183655a97739128ad3f83f7b13f44477f7b0ec1d78012e8d1385f4aa0bf26ff"
+    },
+    {
+      "path": "backend/ocr-runtime/package-lock.json",
+      "bytes": 4995,
+      "sha256": "811c2d2f34597d09de8b57985e62a87efc856802faa38de7c984c12e02cb8b3a"
+    },
+    {
+      "path": "backend/ocr-runtime/package.json",
+      "bytes": 100,
+      "sha256": "59ce70ec64a6adf530e5d91982df1e25e7aaed687e9a6ab837f9d7aa3bdb814e"
+    },
+    {
+      "path": "backend/ocr-runtime/recognize.mjs",
+      "bytes": 930,
+      "sha256": "a395be0db73fc7fbef8b9788e3570880ce878ce5d6bc141341b24d4268f6bcd6"
+    },
+    {
+      "path": "backend/ocr-runtime/setup-model.mjs",
+      "bytes": 951,
+      "sha256": "693ff68f286707a5b6532ca0fc79d81f3c1ee0925a10e522adf66adadba044ef"
+    },
+    {
+      "path": "backend/requirements.txt",
+      "bytes": 116,
+      "sha256": "fc47161de55a4eeec05f25b5a268caba8517a4883dc2ad907db22d6caa14c4b2"
+    },
+    {
+      "path": "backend/tests/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "backend/tests/fixtures/chebi-water.json",
+      "bytes": 13652,
+      "sha256": "b71d46749ba862f8f2e0783a44f6c938e475d98979c8e516c801e0c9f41eb535"
+    },
+    {
+      "path": "backend/tests/fixtures/cosing.json",
+      "bytes": 10334,
+      "sha256": "ecd6c212f29e8a2f08c2302034929829a8516cc95b58d57960047e96f60df69c"
+    },
+    {
+      "path": "backend/tests/fixtures/fda-food.json",
+      "bytes": 9934,
+      "sha256": "67ddc6ec494bbe5b008a2c125fc290b3ed76e7717d2b77399f92515f0cc9f2f7"
+    },
+    {
+      "path": "backend/tests/fixtures/food-code-identities.json",
+      "bytes": 20766,
+      "sha256": "de1efbb02abdcaf56928b3c08e376a2548acdc3edf649ea0ad45666d8b1e3a75"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/e508.json",
+      "bytes": 20462,
+      "sha256": "4341ff0797ed84b9c940ef95ddfbc8b2ea824b3b8008f98dc76664b91ab224e9"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/e635.json",
+      "bytes": 3133,
+      "sha256": "e36ce970e1d8684d1953bc5effaac6b4dbfa48fa25fcb25929879925b812e573"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/extracts.json",
+      "bytes": 7327,
+      "sha256": "18518ffa7712018348537268296f2881715fe05cfa320433689ae2dd31677eea"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/fda-food.json",
+      "bytes": 169819,
+      "sha256": "39275aaf948d9ed417ce254bc943f2c83c0031e4dcded39545060a3cd159c7bd"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/flavour_definition.json",
+      "bytes": 19739,
+      "sha256": "eb7d3442ea2a4990be16e3ec111ccf3be846870f7d5465a2bc8f579511f443d7"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/iodized_salt.json",
+      "bytes": 3075,
+      "sha256": "254b1c250ceba1faec879492650cb3c46056733ec637877d5fff9b78b5ec4309"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/palm-oil-evidence.json",
+      "bytes": 218,
+      "sha256": "dd4bef0651de8fc624673cb2d6b068221e34fe597201afb0f90d1a9d480e2d15"
+    },
+    {
+      "path": "backend/tests/fixtures/food-enrichment/spice_definitions.json",
+      "bytes": 17934,
+      "sha256": "06327bded1548b39e13d1834fa91cafdcd36006bdda1c195a64cc7e2472c10ca"
+    },
+    {
+      "path": "backend/tests/fixtures/food-standards/cfr-101-22.xml",
+      "bytes": 21865,
+      "sha256": "fe86a378f23024dd02c348834e5ac31349c805eded199099d4b1a511ff37e1b4"
+    },
+    {
+      "path": "backend/tests/fixtures/food-standards/cfr-131-125.xml",
+      "bytes": 3848,
+      "sha256": "c80a182a9e2e4af4d2e878dd2f5ac656c242008acbe030fa915fd9c00499b6d1"
+    },
+    {
+      "path": "backend/tests/fixtures/food-standards/cfr-131-147.xml",
+      "bytes": 6031,
+      "sha256": "9a44f120c0c895fa3ed93a18c1d668a4f76be58ce616f84126b1d94b779bbf0b"
+    },
+    {
+      "path": "backend/tests/fixtures/food-standards/cfr-137-105.xml",
+      "bytes": 8008,
+      "sha256": "486151104d024b4d1d8c6558678971fa8eb8bc485a44f2f2a7bff416783cefc4"
+    },
+    {
+      "path": "backend/tests/fixtures/orientation-cases.json",
+      "bytes": 1769,
+      "sha256": "634fb830546e2e622242897881db05fa0fe884a8be0a8b9064819d81059da696"
+    },
+    {
+      "path": "backend/tests/fixtures/wikidata-water.json",
+      "bytes": 509131,
+      "sha256": "97f12e35abef7bc092f974e9149689a4c701d5d1c62c08575baab80888111ea4"
+    },
+    {
+      "path": "backend/tests/test_cosing.py",
+      "bytes": 3395,
+      "sha256": "4acbb249ea8ba80254ed32ffd54d3574dcc8a9ebf70f6ce115772e85c4fcf40a"
+    },
+    {
+      "path": "backend/tests/test_evaluation.py",
+      "bytes": 2053,
+      "sha256": "3e4dbde2f8612cabcb5a82d296a13c709cc6f46bdafb98790090ba0f7d11c59d"
+    },
+    {
+      "path": "backend/tests/test_food.py",
+      "bytes": 4343,
+      "sha256": "dcf69d0c468147d51274fb86df1ce0c1fd37443b87db4c35adf519c93d49430b"
+    },
+    {
+      "path": "backend/tests/test_food_enrichment.py",
+      "bytes": 5993,
+      "sha256": "83750af191a2156562f151150e07a27e803545039ca20ffab2f5789ed4ace8cf"
+    },
+    {
+      "path": "backend/tests/test_integrations.py",
+      "bytes": 4454,
+      "sha256": "a6f33974e0765523db22433811888d95eae2375647a5ccf288cd4e18b257f451"
+    },
+    {
+      "path": "backend/tests/test_orientation.py",
+      "bytes": 2474,
+      "sha256": "b77cf0a89adbdc7a345280d9163a700e3d0292379f5bd323ddb79890bb9a8cb4"
+    },
+    {
+      "path": "backend/tests/test_stage1.py",
+      "bytes": 34423,
+      "sha256": "4f7027adf62e9313159830fb0f5a80bbd25159aa9f670bad2a9d59f2a5567a7f"
+    },
+    {
+      "path": "backend/tests/test_vector_match.py",
+      "bytes": 1325,
+      "sha256": "0f700596ef6035efdb0b88b5d6d80bd413f73c6121db001a669be16c90ca3f6d"
+    },
+    {
+      "path": "backend/tools/check_catalog.py",
+      "bytes": 3332,
+      "sha256": "89d7715aa18587d515f684fffd7e2a97875d1e8879654b87c6399713f8f2d1be"
+    },
+    {
+      "path": "backend/tools/check_food_catalog.py",
+      "bytes": 3973,
+      "sha256": "9adcea2937438f71e5ce1a57bc3332799f9f07aaa98efa7ffaf7e2b9b5f82aec"
+    },
+    {
+      "path": "backend/tools/check_image_orientation.py",
+      "bytes": 4800,
+      "sha256": "15786c5e18640b73d715140dd5e1af6f279806cdff626c808a5deac4bac4f6f3"
+    },
+    {
+      "path": "backend/tools/check_ingredient_confirmation.py",
+      "bytes": 2476,
+      "sha256": "ae1c2449e1f4fce969a7eb524a8a33da644bbed9b4887dac0330f43b5ce16798"
+    },
+    {
+      "path": "backend/tools/check_maggi_ocr.py",
+      "bytes": 4642,
+      "sha256": "cfea4ad11776dfeead59f44374a28521efe50fe02d1e2266b96582045376b4e5"
+    },
+    {
+      "path": "backend/tools/check_maggi_recovery.py",
+      "bytes": 2691,
+      "sha256": "7795e2aa68f822f03a3117a0d77d7c0f4ab4e9b868de5938f8856fec7cadde01"
+    },
+    {
+      "path": "backend/tools/check_matching_details.py",
+      "bytes": 4460,
+      "sha256": "d6f25359cee80ad932a1e8a142b953ab9492298ea681b3e46d0ad169c0c7b501"
+    },
+    {
+      "path": "backend/tools/check_native_compounds.py",
+      "bytes": 2474,
+      "sha256": "cd403a12ca8c36b78a97487167e1b36c3a94a3927866c4c3421d202eaf4d53e1"
+    },
+    {
+      "path": "backend/tools/check_native_confirmation.py",
+      "bytes": 2521,
+      "sha256": "2df9a82de068617517b6a73ea529d023129b55b1901e5f2cac86fe0e027b7c72"
+    },
+    {
+      "path": "backend/tools/check_native_recovery.py",
+      "bytes": 2355,
+      "sha256": "43bbf4f58fa81b67262377a6a1a01cdd9ef30512c9db5caa60ba4235b3893bc1"
+    },
+    {
+      "path": "backend/tools/check_rapidocr_api.py",
+      "bytes": 2241,
+      "sha256": "c810d0ba8300e3030a7377e20d9a3ca0961d53608e2cce3b2100c9697ba34a74"
+    },
+    {
+      "path": "backend/tools/check_stage1_readiness.py",
+      "bytes": 3642,
+      "sha256": "c888d35456eee24837fa94e8a5dc191c34967016a0b2d587845a68407f15a0ed"
+    },
+    {
+      "path": "backend/tools/compare_maggi_ocr.py",
+      "bytes": 2356,
+      "sha256": "b78ce7afcbe2525746706e11fd551086500d00e253650b681814cfdd5184a19e"
+    },
+    {
+      "path": "backend/tools/rapidocr_worker.py",
+      "bytes": 610,
+      "sha256": "344d20ff60fffa9826e179470633b25e717e06c99c5c58b63bf33ac1cce4b8e8"
+    },
+    {
+      "path": "backend/tools/review_fixture.py",
+      "bytes": 773,
+      "sha256": "e2d83a28720eda3ec70ea1f367268226849e108b3bf1c634871b9a2827ffbfa1"
+    },
+    {
+      "path": "backend/tools/smoke_ocr.py",
+      "bytes": 2471,
+      "sha256": "3ccb644c4ab1cba15e55ea549620d5b90fb4fbfd98d6189be7751c9b4c5d312b"
+    },
+    {
+      "path": "backend/tools/update_food_catalog.py",
+      "bytes": 3390,
+      "sha256": "f6d6da9b3b1cd99c1c77a9d9ae410836495bedade4f51df007cdbce4fc2e8de0"
+    },
+    {
+      "path": "backend/tools/verify_maggi_catalog.py",
+      "bytes": 2996,
+      "sha256": "47a7898bf31af1397a57c4db47e59d6f3efb742a8801b7f7b91376c5de1bb554"
+    },
+    {
+      "path": "backend/validation/maggi-catalog-diagnostic.json",
+      "bytes": 865,
+      "sha256": "f84b28a600b156c994cb00af7fa8e68827b2dd2bd4486ca9dc827272007485d5"
+    },
+    {
+      "path": "compose.yaml",
+      "bytes": 466,
+      "sha256": "1e50f0adfe9fb3d8cb7bd48e8d51f3d261ee0425b4ea7f9ea861128b0d7bc821"
+    },
+    {
+      "path": "deploy/Caddyfile",
+      "bytes": 103,
+      "sha256": "d6384e9ab6c00d7d9fb1eae2afdc07db07ef0e96c1982520c3ad7d7e339dde55"
+    },
+    {
+      "path": "deploy/environment.example",
+      "bytes": 197,
+      "sha256": "00b71fd09ad273d97565065d80b15b3c589194510f543e45a0c60778a6126a7b"
+    },
+    {
+      "path": "deploy/kyp.service",
+      "bytes": 503,
+      "sha256": "06d31a8fb85ec5c424e0964d96b183e743fe142b3df73aa9f3a769a818c35773"
+    },
+    {
+      "path": "docs/IMAGE-ORIENTATION.md",
+      "bytes": 4797,
+      "sha256": "61320948ae5dad7039fc86fdb60a5e77995cb2abb0cf97464be0bdc52e3bf54b"
+    },
+    {
+      "path": "docs/INGREDIENT-DATABASE.md",
+      "bytes": 5173,
+      "sha256": "98ef30d10edfa8ec71467ff129e704a51598f8b734c044101e63e5682a58b5f6"
+    },
+    {
+      "path": "docs/INGREDIENT-MATCHING.md",
+      "bytes": 9659,
+      "sha256": "b8332ecb3af31a2cb7dfd2f0a854f6cd41af6c8a3a037cdf4e34ad027ee42a65"
+    },
+    {
+      "path": "docs/MAGGI-OCR-INVESTIGATION.md",
+      "bytes": 4104,
+      "sha256": "3252c09416184fffb7ceb4f7d3fb08674c155f4e66d45d5d86d793e88d7548b8"
+    },
+    {
+      "path": "docs/OCR-ENGINE-COMPARISON.md",
+      "bytes": 4275,
+      "sha256": "7ef9edefc5c10e3811061dff316c8cd53336a5108e143e168480f9ef00332cce"
+    },
+    {
+      "path": "docs/PILOT-CHECKLIST.md",
+      "bytes": 3201,
+      "sha256": "1383703ad52ac34542b60fa649c6842a2746fb7c03a7ada85df7e8654dcd62ed"
+    },
+    {
+      "path": "docs/RELEASE-OPERATIONS.md",
+      "bytes": 3458,
+      "sha256": "421f3412b351cd1f4d8a88ce078fdc90c306e5e39c196bbdf557f585a7d21eb0"
+    },
+    {
+      "path": "docs/STAGE1-REMAINING-WORK.md",
+      "bytes": 5169,
+      "sha256": "2cd66630081c2d4fa7b0e02aa864d914d08ca3a0ddbf202b951071dbf5d3c999"
+    },
+    {
+      "path": "docs/STAGE1-VALIDATION.md",
+      "bytes": 4835,
+      "sha256": "7d070a448cf776c81dcc52df98117ad73de079d14bf7f935d63e9ba6a989579e"
+    },
+    {
+      "path": "docs/images/maggi masala 2.jpeg",
+      "bytes": 161502,
+      "sha256": "1e12ef6fbcbfadaed6ab1446aedd71b0af23292514e3947db880b8dcadfc5784"
+    },
+    {
+      "path": "docs/images/maggi masala 3.jpeg",
+      "bytes": 294099,
+      "sha256": "e459921ece06efd374f055e92936c7748619e3833590d50967bb0d7385b35f4d"
+    },
+    {
+      "path": "docs/images/maggi masala.jpeg",
+      "bytes": 182276,
+      "sha256": "886536f5115413601c8f5d3b363af35fa0c36e005c956fb40b42ff70b8d5e0a8"
+    },
+    {
+      "path": "docs/screenshots/android-current.png",
+      "bytes": 184111,
+      "sha256": "02dcf66f33c52c07f4f03cd2fa711d9a6129fd65e562f1e2af466b923355e276"
+    },
+    {
+      "path": "docs/screenshots/android-home.png",
+      "bytes": 185592,
+      "sha256": "8a8592a6cba2389c645aa7511421f9f07d29f56dbe58693c2eb22c49666842a9"
+    },
+    {
+      "path": "docs/screenshots/android-ocr.png",
+      "bytes": 205943,
+      "sha256": "0ef05651c19058599ac509f28dee5e68e05da6b1741a9a2b395687ee167ee61c"
+    },
+    {
+      "path": "docs/screenshots/android-result.png",
+      "bytes": 192856,
+      "sha256": "29b89f20fd319838c83df9ca60a9f0aed80985f663d420730afbd26c5ddc10ec"
+    },
+    {
+      "path": "docs/screenshots/android-source.png",
+      "bytes": 169935,
+      "sha256": "d11d2279d525ebce1a8c2d99bdef160f6d7daea675a7d1a977f9d9b15fd11281"
+    },
+    {
+      "path": "docs/screenshots/maggi-ocr-review.png",
+      "bytes": 417458,
+      "sha256": "538e6a2e93852921aa23064a6975fdc30c23189a1a8f179412ed943f3de8e7d3"
+    },
+    {
+      "path": "docs/screenshots/maggi3-recovery-review.png",
+      "bytes": 519917,
+      "sha256": "90acd1053395389acfbd50a8838ca6f3d62c2d78c314605d1010eedb3ee16307"
+    },
+    {
+      "path": "docs/screenshots/native-ocr-recovery.png",
+      "bytes": 183140,
+      "sha256": "91a45d041b353a03ed59969c6cc1f6eacc042b555d0dc994ebe99d8a16edcbe5"
+    },
+    {
+      "path": "docs/screenshots/stage1-cosine-details-mobile.png",
+      "bytes": 136365,
+      "sha256": "ae1c36bd6daae69c4b2b1ce86622fd5128a8e24d6ebd8cb4715db5455230f984"
+    },
+    {
+      "path": "docs/screenshots/stage1-cosine-details.png",
+      "bytes": 196926,
+      "sha256": "701c3ae02e52e1eacbd35929cc3eaf3acfea4a7f46bb41626a8957c5c4e2294e"
+    },
+    {
+      "path": "docs/screenshots/stage1-expanded-catalog.png",
+      "bytes": 160205,
+      "sha256": "b5412507c5c2fe7d34c774167d2602b31477bc52c63a7380cff23e1820da03f9"
+    },
+    {
+      "path": "docs/screenshots/stage1-food-catalog.png",
+      "bytes": 182202,
+      "sha256": "0a50350e2c616f4a98a5b1f0594254cbb3174cb50c81cf7d1448b8822d1d2d11"
+    },
+    {
+      "path": "docs/screenshots/stage1-food-mobile-browser.png",
+      "bytes": 156795,
+      "sha256": "9470bbaa2a0d5f6fb8420ebc8b469d757983aa98f6d5defab4c9055a94a54002"
+    },
+    {
+      "path": "docs/screenshots/stage1-image-orientation.png",
+      "bytes": 96014,
+      "sha256": "5decbe95472a9202bba8955a6478d386248497921cd620c39dfdd79441af4a27"
+    },
+    {
+      "path": "docs/screenshots/stage1-ingredient-confirmation-mobile.png",
+      "bytes": 84090,
+      "sha256": "7563869f909af14718fc565285967ac3002d01cae8c434d27aef08ec55234813"
+    },
+    {
+      "path": "docs/screenshots/stage1-ingredient-confirmation.png",
+      "bytes": 95844,
+      "sha256": "a0011a0555f90d8d6bf1e4ee28adaf393138bc477d5e9a9e11673156d0b2da61"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-auto-orientation.png",
+      "bytes": 158327,
+      "sha256": "de5d297d7861bd9bf04fc848b292859e567e9a4b24666ed36480799af944445f"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-cosine-details.png",
+      "bytes": 261889,
+      "sha256": "00ac8446246c2bfeb9c5d3d3756866ef4561c828e1d4448e415ec2094af80e96"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-ingredient-confirmation.png",
+      "bytes": 179566,
+      "sha256": "b79c5a7324ae24c5808536d32960a6718a8a05bf7e01c79a3a8a9bc4aa5eafb2"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-nested-food.png",
+      "bytes": 226386,
+      "sha256": "217e1f2302afdcebb63e1af1f7d7814aa2d64163e4d35a9d9a37c50ce8244cf2"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-orientation-preview.png",
+      "bytes": 154694,
+      "sha256": "2e80518ee8d2ffe1339faac78ab9159d2cef3480c5f9899f4ccbaddacfa4532a"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-orientation-read.png",
+      "bytes": 191997,
+      "sha256": "86260e94f5f7efe3bbfdbfdaaf5f475726de5dd40e2fa845b93ded3b97fe09d0"
+    },
+    {
+      "path": "docs/screenshots/stage1-native-orientation-rotated.png",
+      "bytes": 161414,
+      "sha256": "8afaa44a8cc9215afc2ae144ab05ca1d7d85a1aee5e14926a24d367e36002f3a"
+    },
+    {
+      "path": "docs/screenshots/stage1-nested-food.png",
+      "bytes": 150408,
+      "sha256": "12393d62dc02075fec6b0523173f09143b8e708c2049c54315638c7a566cbebc"
+    },
+    {
+      "path": "docs/test-fixtures/synthetic-label.png",
+      "bytes": 28586,
+      "sha256": "2b053eae65c065d3aadeac21cd801358e90fa9a04250f35660ebc7c2b021507f"
+    },
+    {
+      "path": "docs/validation/match-calibration.example.json",
+      "bytes": 395,
+      "sha256": "8ff580422746de7b0fc59e087e7b69438f63bd8540dbc2c958182f7304a90465"
+    },
+    {
+      "path": "docs/validation/ocr-corpus.example.json",
+      "bytes": 458,
+      "sha256": "87d58a95e3481e552859baaca9587b766c926f9d82214b397b455816d8db397a"
+    },
+    {
+      "path": "mobile/.env.example",
+      "bytes": 54,
+      "sha256": "e3c067f772f6b65345e64eff638e34a35ce45c4dac661608f5aa987f775278b2"
+    },
+    {
+      "path": "mobile/.gitignore",
+      "bytes": 440,
+      "sha256": "5936b94a73a28b6735de672b54c2c058a33c9ae1edb62d87d6a4418e14447805"
+    },
+    {
+      "path": "mobile/AGENTS.md",
+      "bytes": 2598,
+      "sha256": "b7d381dd55800d242252e8bf89a40b026586d254e34908210931bc35582396a3"
+    },
+    {
+      "path": "mobile/App.tsx",
+      "bytes": 29459,
+      "sha256": "523bdbe40a3b2f0b44b40520dd2a7c1b715f9066ef08bd46264cb8732af8563d"
+    },
+    {
+      "path": "mobile/DEPENDENCY-REVIEW.md",
+      "bytes": 1648,
+      "sha256": "bf2fb55d03d3b3a02573e77acc77fd5ad7c37f0e9bcd1f7d8d9f1517f1276364"
+    },
+    {
+      "path": "mobile/LICENSE",
+      "bytes": 1106,
+      "sha256": "fb3ca4a837f5779e83cef89b78253a8949cfb9429c340309f62d0465ec6610b4"
+    },
+    {
+      "path": "mobile/README.md",
+      "bytes": 3387,
+      "sha256": "2a9ee9b1e97945cf2a1022ff4ffa08ed6bde6fa78a645f03980e8572f46fc28e"
+    },
+    {
+      "path": "mobile/app.json",
+      "bytes": 1013,
+      "sha256": "44a2c0b6dc11486b29b71db0ba08e1a5218c9a7352788b25f5b6958b735abe7c"
+    },
+    {
+      "path": "mobile/assets/android-icon-background.png",
+      "bytes": 17549,
+      "sha256": "fb139c2dee362ebf2070e23b96da6fc0d43f8492de38b8af1fd7223e19b5861d"
+    },
+    {
+      "path": "mobile/assets/android-icon-foreground.png",
+      "bytes": 78796,
+      "sha256": "9e3d0315a33c6799de601dd34cd8bf8cc3a8d16f3bf75592baec2ceb7240b391"
+    },
+    {
+      "path": "mobile/assets/android-icon-monochrome.png",
+      "bytes": 4140,
+      "sha256": "6371fc2c12e33ad2215a86c281db3d682a81bebe7c957a842c13b8bf00cceb83"
+    },
+    {
+      "path": "mobile/assets/favicon.png",
+      "bytes": 1129,
+      "sha256": "a4e030697a7571b3e95d31860e4da55d2f98e5e861e2b55e414f45a8556828ba"
+    },
+    {
+      "path": "mobile/assets/icon.png",
+      "bytes": 393493,
+      "sha256": "119462bb78eb240a65c869fc067ee599639b3cb5a41953f25c07b17d2a8c7e0f"
+    },
+    {
+      "path": "mobile/assets/splash-icon.png",
+      "bytes": 17547,
+      "sha256": "5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8"
+    },
+    {
+      "path": "mobile/eslint.config.js",
+      "bytes": 204,
+      "sha256": "cf7f35e252ac8b70e117d5763a357198e259e3848033db164c3d79d2a8315b6e"
+    },
+    {
+      "path": "mobile/index.ts",
+      "bytes": 307,
+      "sha256": "5c157f4d44972d9c84415e1e4bda595b3abcd8cf733f8a9cd20935bec3eccc42"
+    },
+    {
+      "path": "mobile/package-lock.json",
+      "bytes": 380602,
+      "sha256": "90639c6c573595095b2d59ad4f334dbfef1fc28fe674895037dc7b59a4f44519"
+    },
+    {
+      "path": "mobile/package.json",
+      "bytes": 886,
+      "sha256": "694e59cdbfe798868eeee30805ca396135807fc346913267f93b5093a20222a1"
+    },
+    {
+      "path": "mobile/src/api.ts",
+      "bytes": 4405,
+      "sha256": "0b8bbaebf4f10e0cd6c7cd1cb178d93512748c0c08cde88eefc9535c5d9d0c48"
+    },
+    {
+      "path": "mobile/src/ocr.ts",
+      "bytes": 939,
+      "sha256": "3c90a323faeaca14d0f65f2496ff5f993e9c15ff6f739018d68f5ffc83229c02"
+    },
+    {
+      "path": "mobile/src/orientation-policy.json",
+      "bytes": 1179,
+      "sha256": "71e181a2fa90a422bf95ea2227fbf4f574f1ed15deaab50b6f751de65c730546"
+    },
+    {
+      "path": "mobile/src/orientation.ts",
+      "bytes": 1227,
+      "sha256": "03725e23d79b2c5e87266790a85405e84154c6b6c8f86e25bf3a600362867ce6"
+    },
+    {
+      "path": "mobile/tools/check-orientation.cjs",
+      "bytes": 1254,
+      "sha256": "f4eb7b3893b4756cb258b2713deca7a31568e9013fd8ae403e98d962e29d3310"
+    },
+    {
+      "path": "mobile/tsconfig.json",
+      "bytes": 85,
+      "sha256": "712583ff9cdb4b4e4f9b000a4a56d68db8dc1921cbfbc36d490a3a9f2be3dd72"
+    },
+    {
+      "path": "scripts/dev.ps1",
+      "bytes": 850,
+      "sha256": "b85fbe2dd2271e8dabe1a424b4b8ff0bc5c051720101ba42493b91cab8cbbc1d"
+    },
+    {
+      "path": "scripts/package-catalog.py",
+      "bytes": 7065,
+      "sha256": "fe6c44b3fe1fc25377a07dadfc481160d18ff553a7964e687dcfaa24e7aa4a55"
+    },
+    {
+      "path": "scripts/package-source.py",
+      "bytes": 7255,
+      "sha256": "2623e21284a712d9ee816a8f2705aad1fea1e48cbdeb05f5b7578ed3ffb54465"
+    },
+    {
+      "path": "scripts/restore-catalog.py",
+      "bytes": 2460,
+      "sha256": "cf37436203c89c34f3194e8245831823a8a9201604c1389cf73930a0bcf2c656"
+    },
+    {
+      "path": "scripts/setup-mac.sh",
+      "bytes": 1768,
+      "sha256": "87d2e15ac24d3685c18c8b7e0ea5c9c48b25265b45a6cfd967385c457d97f218"
+    },
+    {
+      "path": "scripts/test.ps1",
+      "bytes": 568,
+      "sha256": "788670188916cbf023aaeca5aadd1d6a1fecdd89d8f6f1b17b360de4998f1aa8"
+    }
+  ]
+}

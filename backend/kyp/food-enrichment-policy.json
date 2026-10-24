@@ -1,0 +1,273 @@
+{
+  "version": "food-enrichment-v1",
+  "sources": {
+    "spice_definitions": {
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cpg-sec-525750-spices-definitions",
+      "format": "html",
+      "licence": "U.S. federal government text; FDA website policy: https://www.fda.gov/about-fda/about-website/website-policies",
+      "attribution": "U.S. FDA, CPG 525.750 (1980). Adapted identity definitions, not a current legal-use or safety assessment.",
+      "required": [
+        "CPG Sec 525.750",
+        "SPICES - General Definition"
+      ]
+    },
+    "extracts": {
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title21-vol3/xml/CFR-2025-title21-vol3-sec182-20.xml",
+      "format": "xml",
+      "licence": "U.S. federal government text, public domain; 2025 CFR edition",
+      "attribution": "U.S. FDA; 2025 CFR 182.20 via GovInfo. Plant/extractive identity only; no safety or jurisdictional approval inference.",
+      "required": [
+        "182.20",
+        "Essential oils, oleoresins",
+        "natural extractives"
+      ]
+    },
+    "iodized_salt": {
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title21-vol2/xml/CFR-2025-title21-vol2-sec100-155.xml",
+      "format": "xml",
+      "licence": "U.S. federal government text, public domain; 2025 CFR edition",
+      "attribution": "U.S. FDA; 2025 CFR 100.155 via GovInfo. Basic iodized-salt identity only.",
+      "required": [
+        "100.155",
+        "Salt and iodized salt."
+      ]
+    },
+    "flavour_definition": {
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title21-vol2/xml/CFR-2025-title21-vol2-sec101-22.xml",
+      "format": "xml",
+      "licence": "U.S. federal government text, public domain; 2025 CFR edition",
+      "attribution": "U.S. FDA; 2025 CFR 101.22 via GovInfo. Broad flavour category only, not a specific chemical identity.",
+      "required": [
+        "101.22",
+        "natural flavor"
+      ]
+    },
+    "e635": {
+      "url": "https://data.food.gov.uk/regulated-products/food_authorisations/e-635",
+      "format": "html",
+      "licence": "Open Government Licence v3.0; https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "attribution": "UK Food Standards Agency, regulated food/feed products register. Adapted E-number identity only; no Indian authorisation or safety inference.",
+      "required": [
+        "E No. E 635 Food Additive Disodium 5′-ribonucleotides",
+        "Open Government Licence v3.0"
+      ]
+    },
+    "e508": {
+      "url": "https://www.ebi.ac.uk/chebi/backend/api/public/compound/32588/",
+      "format": "chebi",
+      "licence": "CC BY 4.0; https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "ChEBI, EMBL-EBI, CHEBI:32588. Code/identity mapping under CC BY 4.0; no endorsement.",
+      "required": [
+        "INS-508",
+        "7447-40-7"
+      ]
+    }
+  },
+  "entries": [
+    {
+      "id": "food-dried-onion",
+      "name": "dried onion",
+      "aliases": [
+        "dehydrated onion",
+        "dehydrated onions",
+        "dried onions"
+      ],
+      "description": "Dried onion is onion in dried or dehydrated form, used as a named food ingredient. This broad form does not specify flakes, granules or powder.",
+      "evidence": [
+        {
+          "source": "spice_definitions",
+          "excerpt": "dried or dehydrated onions and garlic"
+        }
+      ]
+    },
+    {
+      "id": "food-dried-garlic",
+      "name": "dried garlic",
+      "aliases": [
+        "dehydrated garlic"
+      ],
+      "description": "Dried garlic is garlic in dried or dehydrated form, used as a named food ingredient. This broad form does not specify flakes, granules or powder.",
+      "evidence": [
+        {
+          "source": "spice_definitions",
+          "excerpt": "dried or dehydrated onions and garlic"
+        }
+      ]
+    },
+    {
+      "id": "food-green-cardamom-powder",
+      "name": "green cardamom powder",
+      "aliases": [
+        "ground green cardamom"
+      ],
+      "description": "Green cardamom powder is a ground cardamom spice associated with Elettaria cardamomum. This record does not cover black cardamom.",
+      "evidence": [
+        {
+          "source": "spice_definitions",
+          "excerpt": "CARDAMOM (or Cardamon) - The dried, nearly ripe fruit or seed of Elettaria cardamomum L. Maton."
+        },
+        {
+          "source": "spice_definitions",
+          "excerpt": "either green or white (bleached)"
+        },
+        {
+          "source": "spice_definitions",
+          "excerpt": "in the whole, broken, or ground form"
+        }
+      ]
+    },
+    {
+      "id": "food-red-chilli-powder",
+      "name": "red chilli powder",
+      "aliases": [
+        "red chili powder",
+        "ground red chilli",
+        "ground red chili"
+      ],
+      "description": "Red chilli powder is a ground red Capsicum pepper spice. This record does not identify an unspecified chilli-powder seasoning blend.",
+      "evidence": [
+        {
+          "source": "spice_definitions",
+          "excerpt": "PEPPER, RED (Capsicum, Cayenne) - The red, dried fruit of any variety of Capsicum frutescens L. or C. annuum L."
+        },
+        {
+          "source": "spice_definitions",
+          "excerpt": "in the whole, broken, or ground form"
+        }
+      ]
+    },
+    {
+      "id": "food-coriander-extract",
+      "name": "coriander extract",
+      "aliases": [],
+      "description": "Coriander extract is a plant-derived extractive used as a flavour ingredient. The label does not specify its extraction method or composition.",
+      "evidence": [
+        {
+          "source": "extracts",
+          "excerpt": "natural extractives (including distillates)"
+        },
+        {
+          "source": "extracts",
+          "excerpt": "Coriander Coriandrum sativum L."
+        }
+      ]
+    },
+    {
+      "id": "food-cumin-extract",
+      "name": "cumin extract",
+      "aliases": [],
+      "description": "Cumin extract is a plant-derived extractive used as a flavour ingredient. The label does not specify its extraction method or composition.",
+      "evidence": [
+        {
+          "source": "extracts",
+          "excerpt": "natural extractives (including distillates)"
+        },
+        {
+          "source": "extracts",
+          "excerpt": "Cumin (cummin) Cuminum cyminum L."
+        }
+      ]
+    },
+    {
+      "id": "food-iodized-salt",
+      "name": "iodized salt",
+      "aliases": [
+        "iodised salt",
+        "iodized table salt",
+        "iodised table salt"
+      ],
+      "description": "Iodized salt is food salt with added iodine compounds. The ingredient name alone does not specify the iodine compound or its amount.",
+      "evidence": [
+        {
+          "source": "iodized_salt",
+          "excerpt": "iodized salt or iodized table salt"
+        },
+        {
+          "source": "iodized_salt",
+          "excerpt": "salt for human food use to which iodide has been added"
+        }
+      ]
+    },
+    {
+      "id": "food-disodium-ribonucleotides",
+      "name": "disodium 5'-ribonucleotides",
+      "aliases": [
+        "disodium ribonucleotides",
+        "disodium 5′-ribonucleotides",
+        "E635",
+        "E-635",
+        "INS-635"
+      ],
+      "description": "Disodium 5'-ribonucleotides is the additive identified as E635 in the UK Food Standards Agency register. The code identifies the additive, not its amount in a product.",
+      "evidence": [
+        {
+          "source": "e635",
+          "excerpt": "E No. E 635 Food Additive Disodium 5′-ribonucleotides"
+        }
+      ],
+      "functional_labels": [
+        "flavour enhancer",
+        "flavor enhancer"
+      ],
+      "code": "635"
+    },
+    {
+      "id": "cosing-36948",
+      "name": "POTASSIUM CHLORIDE",
+      "aliases": [
+        "E508",
+        "E-508",
+        "INS-508"
+      ],
+      "description": null,
+      "evidence": [
+        {
+          "source": "e508",
+          "excerpt": "INS-508"
+        },
+        {
+          "source": "e508",
+          "excerpt": "7447-40-7"
+        }
+      ],
+      "functional_labels": [
+        "thickener"
+      ],
+      "code": "508"
+    },
+    {
+      "id": "chebi-30769",
+      "name": "citric acid",
+      "aliases": [],
+      "description": null,
+      "evidence": [],
+      "functional_labels": [
+        "acidity regulator"
+      ],
+      "code": "330",
+      "existing_code_evidence": "INS-330"
+    },
+    {
+      "id": "food-natural-flavouring",
+      "name": "natural flavouring",
+      "aliases": [
+        "natural flavoring",
+        "natural flavouring substance",
+        "natural flavoring substance",
+        "natural flavouring substances",
+        "natural flavoring substances"
+      ],
+      "description": "Natural flavouring is a broad category of flavour ingredients derived from plant, animal or fermentation sources. This label term does not identify the individual substances in the flavouring.",
+      "evidence": [
+        {
+          "source": "flavour_definition",
+          "excerpt": "The term natural flavor or natural flavoring means"
+        },
+        {
+          "source": "flavour_definition",
+          "excerpt": "whose significant function in food is flavoring rather than nutritional"
+        }
+      ]
+    }
+  ]
+}

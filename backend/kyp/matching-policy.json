@@ -1,0 +1,17 @@
+{
+  "version": "identity-cosine-review-v1",
+  "vector_model": "local-word-character-tfidf-v1",
+  "character_ngrams": [
+    2,
+    3,
+    4
+  ],
+  "word_weight": 2,
+  "candidate_limit": 3,
+  "suggestion_threshold": 0.3,
+  "max_vector_text_length": 512,
+  "auto_accept_fuzzy": false,
+  "probability_calibration": "not_available",
+  "review_similarity_threshold": 0.8,
+  "low_ocr_threshold": 0.75
+}

@@ -1,0 +1,4 @@
+{
+  "sources": [{"id": "synthetic-example", "url": "https://example.invalid/not-a-real-source", "licence": "SYNTHETIC EXAMPLE ONLY - replace with reviewed terms", "attribution": "KYP import format example; no scientific authority", "retrieved_at": "2026-10-23T00:00:00+00:00", "content": "Demo carrier forms the base of this fictional formula."}],
+  "ingredients": [{"id": "demo-carrier", "name": "Demo carrier", "aliases": ["Demo base"], "description": {"text": "Demo carrier forms the base of this fictional formula.", "citations": [{"source_id": "synthetic-example", "excerpt": "Demo carrier forms the base of this fictional formula."}]}}]
+}

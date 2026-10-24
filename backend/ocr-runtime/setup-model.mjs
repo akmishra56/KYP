@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
+const url='https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/eng.traineddata';
+const folder=new URL('./models/',import.meta.url);
+await fs.mkdir(folder,{recursive:true});
+const response=await fetch(url);
+if(!response.ok)throw Error('Could not download English OCR model');
+const data=Buffer.from(await response.arrayBuffer());
+if(data.length<1000000)throw Error('Unexpected OCR model size');
+await fs.writeFile(new URL('eng.traineddata',folder),data);
+await fs.writeFile(new URL('provenance.json',folder),JSON.stringify({url,licence:'Apache-2.0',licence_url:'https://github.com/tesseract-ocr/tessdata_fast/blob/main/LICENSE',sha256:crypto.createHash('sha256').update(data).digest('hex'),retrieved_at:new Date().toISOString()},null,2));
+console.log('English model installed locally. OCR will use local assets, without image transfer to an OCR vendor.');

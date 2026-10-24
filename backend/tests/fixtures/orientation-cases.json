@@ -1,0 +1,90 @@
+[
+  {
+    "name": "clear-0",
+    "texts": [
+      "Ingredients: water, salt, sugar, wheat flour, citric acid",
+      "zzz % 123 / !",
+      "zzz % 123 / !",
+      "zzz % 123 / !"
+    ],
+    "rotation": 0,
+    "status": "confident"
+  },
+  {
+    "name": "clear-90",
+    "texts": [
+      "zzz % 123 / !",
+      "Ingredients: water, salt, sugar, wheat flour, citric acid",
+      "zzz % 123 / !",
+      "zzz % 123 / !"
+    ],
+    "rotation": 90,
+    "status": "confident"
+  },
+  {
+    "name": "clear-180",
+    "texts": [
+      "zzz % 123 / !",
+      "zzz % 123 / !",
+      "Ingredients: water, salt, sugar, wheat flour, citric acid",
+      "zzz % 123 / !"
+    ],
+    "rotation": 180,
+    "status": "confident"
+  },
+  {
+    "name": "clear-270",
+    "texts": [
+      "zzz % 123 / !",
+      "zzz % 123 / !",
+      "zzz % 123 / !",
+      "Ingredients: water, salt, sugar, wheat flour, citric acid"
+    ],
+    "rotation": 270,
+    "status": "confident"
+  },
+  {
+    "name": "no-text",
+    "texts": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rotation": 0,
+    "status": "uncertain"
+  },
+  {
+    "name": "ambiguous",
+    "texts": [
+      "Ingredients: water salt sugar",
+      "Ingredients: water salt sugar",
+      "Ingredients: water salt sugar",
+      "Ingredients: water salt sugar"
+    ],
+    "rotation": 0,
+    "status": "uncertain"
+  },
+  {
+    "name": "too-little-text",
+    "texts": [
+      "salt",
+      "",
+      "",
+      ""
+    ],
+    "rotation": 0,
+    "status": "uncertain"
+  },
+  {
+    "name": "non-english",
+    "texts": [
+      "xyz abc qqq",
+      "xyz abc qqq",
+      "xyz abc qqq",
+      "xyz abc qqq"
+    ],
+    "rotation": 0,
+    "status": "uncertain"
+  }
+]
